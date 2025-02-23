@@ -1,0 +1,19 @@
+{
+    "name": "flashcard-frontend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "next": "^15.1.7",
+        "react": "18.x",
+        "react-dom": "18.x"
+    },
+    "devDependencies": {
+        "eslint": "8.x",
+        "eslint-config-next": "13.x"
+    },
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    }
+}

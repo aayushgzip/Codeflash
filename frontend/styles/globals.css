@@ -1,0 +1,36 @@
+/* frontend/styles/globals.css */
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    cursor: pointer;
+    margin: 5px 0;
+  }
+  
+  li:hover {
+    color: #007BFF;
+  }
+  
